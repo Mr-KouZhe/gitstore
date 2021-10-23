@@ -1,3 +1,1 @@
-新建文件夹
-这是第一次修改内容
-两个都别修改了
+Analysts at cybersecurity firm Proofpoint's Cloudmark mobile and email security division warn that popular online games are helping to spread malware on PCs and mobile devices. Data from virtual private network (VPN) service Atlas VPN indicated more than 303,000 PCs were infiltrated by such malware, adware, and spyware between July 1, 2020, and June 30, 2021, while another 50,000 users had attempted to download files masquerading as the 10 most-played mobile games. Cloudmark's Jacinta Tobin said games often are connected with online spaces where hackers prowl, like YouTube channels. Cloudmark also expressed concern about mobile-device exploits, such as the just-discovered TangleBot malware targeting Android devices in North America, which spreads through texts.
